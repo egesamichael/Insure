@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Insure</string>
+    <string name="start">Get Started</string>
+
+    <string name="code">+256</string>
+    <string name="phone">Phone Number</string>
+    <string name="getstarted">Enter your Number to get started</string>
+    <string name="submit">Continue</string>
+    <string name="title_activity_find_an_agent">Find An Agent</string>
+
+</resources>
